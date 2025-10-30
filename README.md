@@ -1,4 +1,4 @@
-# WeMate
+# Chat-WebApp
 A simple zero level chat website made with ASP.NET Form and SQL Server as Backend service.
 
 ## Features
